@@ -10,9 +10,6 @@
         "types": [
             "cypress",
             "node",
-            "cypress-file-upload",
-            "cypress-wait-until",
-            "cypress-plugin-stripe-elements"
         ],
         "allowJs": true,
         "noEmit": true,

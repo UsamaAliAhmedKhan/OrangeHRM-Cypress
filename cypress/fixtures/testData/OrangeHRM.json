@@ -1,0 +1,20 @@
+{
+  "OrangeHRM": [
+    {
+      "username":"Admin",
+      "password": "admin123"   
+    }
+  ],
+  "EmployeeDetails": [
+    {
+      "firstName":"usama",
+      "lastName": "khan"
+    }
+  ],
+  "searchEmployee": [
+    {
+      "firstName":"Aaliyah",
+      "lastName": "Haq"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+    "compilerOptions": {
+        "target": "ES6",
+        "lib": [
+            "es6",
+            "dom"
+        ],
+        "module": "CommonJS",
+        "moduleResolution": "node",
+        "types": [
+            "cypress",
+            "node",
+            "cypress-file-upload",
+            "cypress-wait-until",
+            "cypress-plugin-stripe-elements"
+        ],
+        "allowJs": true,
+        "noEmit": true,
+        "noEmitOnError": true,
+        "resolveJsonModule": true,
+        "isolatedModules": false,
+        "strict": true,
+        "strictNullChecks": true,
+        "noImplicitThis": true,
+        "esModuleInterop": true,
+        "skipLibCheck": true,
+        "forceConsistentCasingInFileNames": true,
+        "useUnknownInCatchVariables": false
+    },
+     "include": [
+        "tests",
+        "**/*.ts"
+    ],
+    "exclude": [
+        "node_modules"
+    ]
+}
